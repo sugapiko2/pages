@@ -34,6 +34,8 @@ title: 職務経歴書
     - DynamoDB
 - その他
     - GraphQL
+    - Docker
+    - Jest
 
 ---
 
@@ -55,28 +57,41 @@ title: 職務経歴書
 - 2016/10 - 2019/03 新規サブシステム開発業務
     - 言語・フレームワーク
         - Java
-        - JavaScript(Google Closure)
+        - JavaScript
         - Cassandra
+    - 業務内容
+        - プロトタイプ開発
+        - 新規機能開発（設計、実装）
+        - 保守（不具合修正、問い合わせ対応）
     - 役割
-        - プロトタイプ開発、実装、保守
+        - メンバー
 - 2019/04 - 2019/07 タレントマネジメント製品開発業務
     - 言語・フレームワーク
         - TypeScript
         - nodejs
         - PostgresDB, DynamoDB
+    - 業務内容
+        - 新規機能開発（設計、実装）
+        - 保守（不具合修正、問い合わせ対応）
     - 役割
-        - 設計、実装、保守
+        - メンバー
 
 ### 株式会社Works Human Intelligence（分社化に伴う転籍, 2019/08~現在）
 
 人事管理パッケージシステムCOMPANYの開発
 
 - 2019/08 - 現在 タレントマネジメント製品開発業務
-    - TypeScript
-    - nodejs
-    - PostgresDB, DynamoDB
+    - 言語
+        - TypeScript
+        - nodejs
+        - PostgresDB, DynamoDB
+    - 業務内容
+        - 新規機能開発（設計、実装）
+        - 保守（不具合修正、問い合わせ対応）
+    - 役割
+        - メンバー
 
 ## 業務外活動
 
 - [Atcoder](https://atcoder.jp/users/sugapiko2)
-    - Rating: 820 (緑)
+    - Rating: 890 (緑)
